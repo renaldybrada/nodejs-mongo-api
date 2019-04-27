@@ -1,0 +1,7 @@
+1. init node project
+2. install dependencies
+3. install dev dependencies
+4. bootstraping server
+5. setup mongoDB connection
+6. setup mongoDB schema
+7. coding
